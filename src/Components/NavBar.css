@@ -1,0 +1,38 @@
+.bg {
+    text-align: center !important;
+  }
+  .bg-container-header {
+    background-color: brown;
+    padding-top: 15px;
+    margin-top: 10px;
+    width: 50vw;
+    text-align: center;
+    padding-bottom: 15px;
+    border-radius: 5px;
+  }
+  .link {
+    background-color: white;
+    color: navy;
+    padding: 8px;
+    border-radius: 5px;
+    font-weight: 550;
+    font-size: 20px;
+  }
+  .button-header {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-color: rgb(44, 170, 170);
+    border-radius: 4px;
+    border-width: 0px;
+    font-size: 17px;
+    font-weight: 520;
+    
+  
+  }
+  .button-header:hover {
+    background-color: aqua;
+    border-width: 0px;
+    
+  }
+  

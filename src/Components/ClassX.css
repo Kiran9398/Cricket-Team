@@ -1,0 +1,10 @@
+.button-el{
+    width: 100px;
+    background-color: rgb(5, 10, 168) !important;
+}
+.button-el:hover{
+    background-color: brown !important;
+}
+img{
+    border-radius: 2px;
+}
